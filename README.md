@@ -52,9 +52,230 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 
+### index.html
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechStore</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+
+        <h1>TechStore</h1>
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#products">Products</a>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+            <a href="#account">Account</a>
+        </nav>
+
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+
+        <div class="hero-text">
+
+            <h2>Premium Electronics For Everyone</h2>
+
+            <p>
+                Discover the latest laptops, smartphones and accessories
+                at unbeatable prices.
+            </p>
+
+            <button>Explore Products</button>
+
+        </div>
+
+        <div class="hero-image">
+
+            <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=700"
+                alt="Electronics">
+
+        </div>
+
+    </section>
+
+    <!-- Products -->
+
+    <section id="products">
+
+        <h2>Featured Products</h2>
+
+        <div class="product-container">
+
+            <div class="card">
+
+                <img src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600"
+                    alt="Laptop">
+
+                <h3>Gaming Laptop</h3>
+
+                <p>
+                    High performance laptop for professionals,
+                    gamers and students.
+                </p>
+
+                <h4>$899</h4>
+
+                <button>Buy Now</button>
+
+            </div>
+
+            <div class="card">
+
+                <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600"
+                    alt="Phone">
+
+                <h3>Smartphone</h3>
+
+                <p>
+                    Experience flagship performance with
+                    an amazing camera.
+                </p>
+
+                <h4>$699</h4>
+
+                <button>Buy Now</button>
+
+            </div>
+
+            <div class="card">
+
+                <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600"
+                    alt="Headphones">
+
+                <h3>Headphones</h3>
+
+                <p>
+                    Crystal clear sound with premium
+                    noise cancellation.
+                </p>
+
+                <h4>$199</h4>
+
+                <button>Buy Now</button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- About -->
+
+    <section id="about">
+
+        <h2>About TechStore</h2>
+
+        <div class="about">
+
+            <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=700"
+                alt="About Us">
+
+            <div>
+
+                <p>
+
+                    TechStore is your trusted destination for premium
+                    electronic gadgets. We provide genuine products,
+                    affordable pricing, fast delivery and dedicated
+                    customer support. Our goal is to make technology
+                    accessible for everyone with a hassle-free shopping
+                    experience.
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Contact -->
+
+    <section id="contact">
+
+        <h2>Contact Us</h2>
+
+        <div class="contact-box">
+
+            <p>📧 support@techstore.com</p>
+
+            <p>📞 +91 98765 43210</p>
+
+            <p>📍 Chennai, Tamil Nadu</p>
+
+            <p>🕒 Mon - Sat : 9.00 AM - 8.00 PM</p>
+
+        </div>
+
+    </section>
+
+    <!-- Login -->
+
+    <section id="account">
+
+        <h2>User Login</h2>
+
+        <div class="account-box">
+
+            <input type="text" placeholder="Username">
+
+            <input type="password" placeholder="Password">
+
+            <button>Login</button>
+
+        </div>
+
+    </section>
+
+    <!-- Footer -->
+
+    <footer>
+
+        <div class="social">
+
+            <a href="#">Facebook</a>
+
+            <a href="#">Instagram</a>
+
+            <a href="#">Twitter</a>
+
+            <a href="#">LinkedIn</a>
+
+        </div>
+
+        <p>© 2026 TechStore | All Rights Reserved</p>
+
+    </footer>
+
+</body>
+
+</html>
+```
+
+### 
+
 
 ## OUTPUT
-
+![alt text](<EXP_2/Screenshot 2026-07-28 134944.png>)
+![alt text](<EXP_2/Screenshot 2026-07-28 135000.png>)
+![alt text](<EXP_2/Screenshot 2026-07-28 135017.png>)
+![alt text](<EXP_2/Screenshot 2026-07-28 135031.png>)
+![alt text](<EXP_2/Screenshot 2026-07-28 135043.png>)
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
